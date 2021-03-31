@@ -19,6 +19,9 @@ coverage
 # node-waf configuration
 .lock-wscript
 
+# nvm configuration
+.nvmrc
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 .eslintcache
@@ -48,3 +51,5 @@ main.js.map
 npm-debug.log.*
 
 dolphin/
+
+.env
